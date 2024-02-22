@@ -1,0 +1,22 @@
+Äc__main__
+CustomScaler
+q )Åq}q(X   scalerqcsklearn.preprocessing.data
+StandardScaler
+q)Åq}q(X	   with_meanq àX   with_stdqàX   copyq	àX   mean_q
+cnumpy.core.multiarray
+_reconstruct
+q
+cnumpy
+ndarray
+qK Öq
+CbqáqRq(KKÖqcnumpy
+dtype
+qX   f8qK KáqRq(KX   <qNNNJˇˇˇˇJˇˇˇˇK tqbâC0q=
+◊£p@ˇNVÀÀk@#òËÔd5B@òËÔdµº:@|≈W|≈W?kyc˝Â?qtqbX   n_samples_seen_qMºX   var_qh
+hK ÖqháqRq(KKÖqhâC0˘iõ`˚à(@æú!k '±@À›{^9QD@tD#eù2@∏ó⁄ö√Û?Ö@9ﬂ∞πı?q tq!bX   scale_q"h
+hK Öq#háq$Rq%(KKÖq&hâC0“Ô∏u!@Z•¬4ˇêP@p?;]É@2ﬁe≥@ÈüN©`»Ò?Û”-dÈ§Ú?q'tq(bX   _sklearn_versionq)X   0.19.1q*ubX    columnsq+]q,(X
+   Month Valueq-X   Transportation Expenseq.X   Ageq/X   Body Mass Indexq0X   Childrenq1X   Petq2eh
+h
+hK Öq3háq4Rq5(KKÖq6hâC0q=
+◊£p@ˇNVÀÀk@#òËÔd5B@òËÔdµº:@|≈W|≈W?kyc˝Â?q7tq8bhh
+hK Öq9háq:Rq;(KKÖq<hâC0ˆiõ`˚à(@¿ú!k '±@‘›{^9QD@mD#eù2@>∏ó⁄ö√Û?w@9ﬂ∞πı?q=tq>bub.
